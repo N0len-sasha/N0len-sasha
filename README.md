@@ -2,8 +2,7 @@
 
 **Get in touch:**
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) -->
- ![Github Badge](https://img.shields.io/badge/N0len-sasha-grey?style=flat&logo=github&logoColor=white&link=https://github.com/N0len-sasha/)
-<!--  (https://www.github.com/pedes/) ![Profile views](https://gpvc.arturio.dev/pedes) -->
+ ![Github Badge](https://img.shields.io/badge/N0len-sasha-grey?style=flat&logo=github&logoColor=white&link=https://github.com/N0len-sasha/) (https://www.github.com/N0len-sasha/)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
