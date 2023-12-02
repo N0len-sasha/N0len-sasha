@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱 -->
 
+**About me**
+I completed my bachelor's degree at MIREA in Moscow, where I am currently studying for a master's degree.
+The main programming language is Python.
+
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=N0len-sasha&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/N0len-sasha/github-readme-stats)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=N0len-sasha&layout=compact)](https://github.com/N0len-sasha/github-readme-stats)
