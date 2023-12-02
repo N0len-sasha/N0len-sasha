@@ -3,6 +3,7 @@
 **Get in touch:**
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) -->
 [![Github Badge](https://img.shields.io/badge/N0len-sasha-grey?style=flat&logo=github&logoColor=white)](https://github.com/N0len-sasha/)
+[![VK Badge](https://img.shields.io/badge/alexandr-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/id275572405)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
@@ -28,9 +29,11 @@ Here are some ideas to get you started:
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱 -->
 
-**About me**
-I completed my bachelor's degree at MIREA in Moscow, where I am currently studying for a master's degree.
-The main programming language is Python.
+**About me:**
+
+- I completed my bachelor's degree at **MIREA** in Moscow, where I am currently studying for a master's degree.</br>
+- The main programming language is **Python**.</br>
+- Often work with the **Django** framework
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=N0len-sasha&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/N0len-sasha/github-readme-stats)
