@@ -3,7 +3,6 @@
 **Get in touch:**
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) -->
 [![Github Badge](https://img.shields.io/badge/N0len-sasha-grey?style=flat&logo=github&logoColor=white)](https://github.com/N0len-sasha/)
-[![VK Badge](https://img.shields.io/badge/alexandr-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/id275572405)
 [![Yandex.Mail](https://img.shields.io/badge/alexandarplatoshin@yandex.ru-red?style=flat&logo=gmail&logoColor=yellow)](mailto:alexandarplatoshin@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/@alexhandr0-blue?style=flat&logo=telegram&logoColor=white)]([https://t.me/alexhandr0)
 
