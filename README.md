@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - I completed my bachelor's degree at **MIREA** in Moscow, where I am currently studying for a master's degree.</br>
 - The main programming language is **Python**.</br>
 - Often work with the **Django** framework
+- My location - Moscow
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=N0len-sasha&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/N0len-sasha/github-readme-stats)
