@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/N0len-sasha-grey?style=flat&logo=github&logoColor=white)](https://github.com/N0len-sasha/)
 [![VK Badge](https://img.shields.io/badge/alexandr-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/id275572405)
 [![Yandex.Mail](https://img.shields.io/badge/alexandarplatoshin@yandex.ru-red?style=flat&logo=gmail&logoColor=yellow)](mailto:alexandarplatoshin@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/N0len-sasha-grey?style=flat&logo=telegram&logoColor=white)]([https://t.me/alexhandr0)
+[![Telegram Badge](https://img.shields.io/badge/@alexhandr0-blue?style=flat&logo=telegram&logoColor=white)]([https://t.me/alexhandr0)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
